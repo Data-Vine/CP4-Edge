@@ -17,8 +17,10 @@ O dispositivo é capaz de:
 - Gabriel Ferreira Machado – 562330  
 - João Paulo Santana Basta – 565383  
 - João Stellare – 565813  
-- Kauê de Almeida Pena – 564211  
+- Kauê de Almeida Pena – 564211 
 
+**Youtube:** https://youtu.be/_4C-xnb_rjM
+**Wokwi:** https://wokwi.com/projects/441468148965036033
 **Grupo:** Data-Vine  
 **Turma:** 1ESPF  
 
